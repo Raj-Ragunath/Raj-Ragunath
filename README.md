@@ -1,7 +1,7 @@
 - 👋  Hey! Thanks for stopping by, I’m Raj, it's a pleasure to [virtually] meet you!
-- 👀  I’m a Front End Software Engineer with interests in Front End and Full Stack Web Development. 
-- 🌱  I’m currently learning / dabbling with some topics in Data Analytics and Machine Learning.
-- 📫  You can reach me at Raj.Ragunath@outlook.com
+- 👀  I'm a Software Developer with a strong interest in mobile technologies and Android Development. 
+- 🌱  I’m currently branching out my skillset by dabbling in web technologies and exploring the world of Full Stack Web Development.
+- 📫  Want to connect? Feel free to reach out to me via email at Raj.Ragunath@outlook.com
 
 <!---
 Raj-Ragunath/Raj-Ragunath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
